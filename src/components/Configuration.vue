@@ -144,7 +144,7 @@ box-shadow: ${data.boxShadow};`
     <div class="row">
       <label for="color">pick a color：</label>
       <input type="color" id="color" v-model="data.color">
-      <label for="colorValue">or</label>
+      <label for="colorValue" style="padding-left: 6px;">or</label>
       <input type="text" placeholder="#ffffff" id="colorValue" :value="data.color"
         @input="setValidColor($event.target.value)">
     </div>
