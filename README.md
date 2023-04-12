@@ -2,7 +2,7 @@
 
 # Neumorphism
 
-[neumorphism](https://github.com/lemonfog/neumorphism)' vue3 + vite version
+[neumorphism](neumorphism.io)' vue3 + vite version
 
 CSS code generator for a new popular design trend called Neumorphism/Soft UI. Built with Vue and Vite.
  
