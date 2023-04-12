@@ -1,14 +1,13 @@
-# neumorphism
+<p align="center"><img src="./public/android-chrome-512x512.png" width="200"></p>
 
-This template should help get you started developing with Vue 3 in Vite.
+# Neumorphism
 
-## Recommended IDE Setup
+[neumorphism](https://github.com/lemonfog/neumorphism)' vue3 + vite version
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+CSS code generator for a new popular design trend called Neumorphism/Soft UI. Built with Vue and Vite.
+ 
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+:link: [Live version](https://lemonfog-soft-ui.netlify.app/)
 
 ## Project Setup
 
@@ -27,3 +26,6 @@ pnpm dev
 ```sh
 pnpm build
 ```
+
+# License
+[MIT](./LICENSE)

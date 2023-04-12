@@ -16,7 +16,7 @@ const copyToClipboard = async () => {
 
 <template>
   <div class="code-panel" :class="{ copying }">
-    <button @click="copyToClipboard">
+    <button @click="copyToClipboard" title="copy code">
       <IconCopy></IconCopy>
     </button>
     <pre><code>{{ props.codeString }}</code></pre>
